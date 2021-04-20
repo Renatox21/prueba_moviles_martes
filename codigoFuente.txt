@@ -1,3 +1,4 @@
 Bienvenido Renato Ramos
 
 - Resido en Lima -Zarate
+- Programador Java
